@@ -1,1 +1,1 @@
-# faster_rnn_object_dection
+# faster_cnn_object_dection
